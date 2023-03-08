@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: lightgray;
+  font-size: 24px;
+  font-family: arial;
+}
+input {
+  text-align: center;
+  border-radius: 30px;
+  background-color: lightgray;
+  font-size: large;
+  margin-bottom: 15px;
+  border: solid 3px black;
+}
+button {
+  border-radius: 20px;
+  text-align: center;
+  font-size: 20px;
+  background-color: lightblue;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 170px;
+  height: 35px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: solid 3px black;
+}
+#h1 {
+  color: black;
+}
+#resultado {
+  width: 300px;
+}
+.conteudo {
+  background-color: lightblue;
+  border-radius: 30px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 27%;
+  margin-right: 27%;
+  text-align: center;
+  border: solid 5px black;
+}
